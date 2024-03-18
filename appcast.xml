@@ -3,14 +3,14 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.5.1</title>
+            <title>Version 1.5.2</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 10 Mar 2024 12:00:00 +0000</pubDate>
+            <pubDate>Mon, 18 Mar 2024 12:00:00 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
-            <sparkle:version>1.5.1</sparkle:version>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.farmzsg.farmz" sparkle:version="1.5.1" sparkle:os="android" />
+            <sparkle:version>1.5.2</sparkle:version>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.farmzsg.farmz" sparkle:version="1.5.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
